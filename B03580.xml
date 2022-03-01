@@ -1,0 +1,707 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ghost of K. Charls and Serieant [sic] Bradshaw. Being a discourse betwixt Charles late king of England, the arch-bishop of Canterburie and Serjeant John Bradshaw. Wherein the unjust proceedings at the triall of the late king in the High-court of justice are justly discovered: the full manner of it debated and the whole course of affaires from the beginning of the wars to these present times, fully and most lively represented. Together, with the means to preserve both church and state from the great and gaping ruines which do threaten to devour them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03580</idno>
+            <idno type="STC">Wing G636</idno>
+            <idno type="STC">ESTC R177395</idno>
+            <idno type="EEBO-CITATION">52614682</idno>
+            <idno type="OCLC">ocm 52614682</idno>
+            <idno type="VID">175891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175891)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2753:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ghost of K. Charls and Serieant [sic] Bradshaw. Being a discourse betwixt Charles late king of England, the arch-bishop of Canterburie and Serjeant John Bradshaw. Wherein the unjust proceedings at the triall of the late king in the High-court of justice are justly discovered: the full manner of it debated and the whole course of affaires from the beginning of the wars to these present times, fully and most lively represented. Together, with the means to preserve both church and state from the great and gaping ruines which do threaten to devour them.</title>
+                  <author>Starbuck, William, attributed author.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the Year 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette.</note>
+                  <note>Some text in black letter.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Attributed to William Starbucke in the Wrenn catalogue.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Laud, William, 1573-1645 --  Early works to 1800.</term>
+               <term>Bradshaw, John, 1602-1659 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175891:1"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:175891:1"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:175891:2"/>
+            <!-- PDF PAGE 112 -->
+            <pb facs="tcp:175891:2"/>
+            <!-- PDF PAGE 112 -->
+            <p>
+               <hi>The ghost of</hi> K. Charls <hi>and Serieant</hi> Bradſha.
+BEING A DISCOURSE Betwixt <hi>Charles</hi> late King OF ENGLAND The
+Arch-Biſhop of <hi>Canterburie</hi> and Serjeant <hi>John Bradſhaw.</hi>
+Wherein the unjuſt Proceedings at the triall of the late King in the
+High-Court of juſtice are juſtly diſcovered: the full manner of it d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bated and the whole courſe of affaires
+from the beginning of the wars to theſe preſent times, fully and moſt
+lively Repreſented. Together, with the means to preſerve both Church and
+State from the great and gaping ruines which do threaten to Devour t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em.</p>
+            <figure/>
+            <p>
+               <hi>London</hi> Printed in the Year 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175891:3"/>
+            <!-- PDF PAGE 113 -->
+            <pb n="3" facs="tcp:175891:3"/>
+            <!-- PDF PAGE 113 -->
+            <head>The Diſcourſe between the Ghoſt of King
+<hi>Chahles;</hi> the Arch Biſhop of <hi>Canterbury,</hi> and Preſident
+<hi>John Bradſhaw.</hi>
+            </head>
+            <sp>
+               <speaker>Charles.</speaker>
+               <p>IS there ſuch a Confuſion then in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Arch-Biſhope.</speaker>
+               <p>
+                  <hi>Yes, and it pleaſe your Majeſty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>But are you ſure of it.</p>
+            </sp>
+            <sp>
+               <speaker>Arch-biſh.</speaker>
+               <p>
+                  <hi>As ſure as God is the God of Order.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>God indeed is the God of order, he made the world in order
+number and meaſure, and if people could be but ſo kind unto themſelves as
+to apprehend it, ſo he will be worſhipped, he will be worſhipped
+according unto order, for, <hi>God is the God of order, and not of
+Confuſion:</hi> How happily was <hi>England</hi> gover<g ref="char:EOLhyphen"/>ned in the dayes of
+Queen <hi>Elizabeth?</hi> and of King James my father? How gently did ſhe fee
+the Reines of my command? untill at laſt being full of high feeding ſhe got
+the <hi>Bit</hi> into her teeth and madly running away with Governour
+Government and all, ſhe deſprately plunged her ſelfe into a Sea of all
+manner of Calamities.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>And where now ſhe may ſooner find the leiſure to
+repent then the meanes to return to that happy condition which ſhe firſt
+enjoyed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>How were her hands then filled with the bleſſings of
+peace, and her heart with gladneſſe? How were her cheſts filled with
+treaſures, which feared not ſo much to be then broken o<g ref="char:EOLhyphen"/>pen by the hands of
+the ſpoylers as by a neerer violence from their own abundance.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>And yet how little could ſhe contribute to your
+Maje<g ref="char:EOLhyphen"/>ſties growing neceſſities out of them? the very demands of tun<g ref="char:EOLhyphen"/>age
+and poundage, and ſhip-mony were evry where cryed down 
+<pb n="4" facs="tcp:175891:4"/>
+                     <!-- PDF PAGE 114 -->
+every where as a burden inſupportable.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>My Subjects longed after thoſe Parliaments of which my
+father and I had reaſon to be jealous and which the people afterwards (who
+before idolized them) did find ſo tedious unto them: But that was not all,
+there was another thing which e<g ref="char:EOLhyphen"/>ſtranged their aff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions from me and for
+that in tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th my lord in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a great meaſure (may complain of you.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>Complain of me!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I of you my Lord: for when Arch-biſhop A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bot li<g ref="char:EOLhyphen"/>ved he kept
+the Church in ſuch an order according to the true Proteſtant Principles,
+that having my countenance in al things I did pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rake in the ſame praiſe
+with him. Indeed he managed the affairs of the Church with Circumſpection,
+and judgement, and did all thing in Rule, and as I may ſay was a man in
+print.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>But of the</hi> Geneva <hi>Print.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Now my Lord, after that by <hi>Buckinghams</hi>
+perſwaſi<g ref="char:EOLhyphen"/>ons, I firſt countenanced you you were looked upon by all men to
+be Abbots ſucceſſor, and to be inclined unto thoſe who pro<g ref="char:EOLhyphen"/>feſſed
+the Religion of the Church of <hi>Rome,</hi> and many ſtrange preſages were
+made what would become of the <hi>Engliſh</hi> Church under ſuch a prelate,
+and under ſuch a King who was condemn<g ref="char:EOLhyphen"/>ed by many to have as well eſpouſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d
+the Religion as the daugh<g ref="char:EOLhyphen"/>ter of the King of <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>But in that I can vindicate your Majeſty who have
+re<g ref="char:EOLhyphen"/>ceived</hi> from yo <hi>many Orders for putting the Laws in practice that
+were made to take hold of the Reſcuſants, and for the baniſh<g ref="char:EOLhyphen"/>ing of all
+Ieſuits out of the Land, ſuch only accepted that were preciſely to wait
+on the Quéen, and to exerciſe their Religion in her own
+Chappell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>My life and death can ſufficiently witneſſe my Religi<g ref="char:EOLhyphen"/>on
+to all the World for though I affected the Queen moſt in<g ref="char:EOLhyphen"/>tirely, and made
+good in effect the fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt vvords that ever J ſpake unto her, which were that
+<hi>I would no longer be Maſter of my ſelfe then I wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſervant unto
+her,</hi> though J might be an example of con<g ref="char:EOLhyphen"/>jugall affection unto all the
+Land, yet J ſhould be loath to be found ſo uxorious as to offend my God, to
+pleaſe a Woman, and turn Religion into Jdolatry<g ref="char:punc">▪</g> for whatſoever a man
+loveth moe then God be it Honour or Wealth, or Wife, he makes it his 
+<pb n="5" facs="tcp:175891:4"/>
+                  <!-- PDF PAGE 114 -->
+                  <hi>Mahomet</hi> and his Jdoll: But to deale plainly with you
+my Lord you were too indulgent to the ſuperſtition of the church of
+<hi>Rome,</hi> for although J am confident you were no Papiſt, yet you gave
+too great a toleration &amp; countenance to many things which by degrees did
+threaten to Uſher in all the reſt Do you remember the book which
+<hi>Pembroke</hi> brought me, and ſaid it was licenſed by your
+Chaplaine.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>The Introduction to a devout life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Yes, that methinks I hear him ſtill ſwearing againſt it,
+the book was indeed too blame, you tranſferred the faults thereof to your
+Chaplain, your Chaplain to the Author who inſerted thoſe errours into it
+after that it was licenſed, but cer<g ref="char:EOLhyphen"/>tain it is the book gave a juſt
+occaſion of offence to m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of more ſound and ſetled Judgments then ever
+<hi>Pembrokes</hi> was.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>It was therefore by your Majeſties Command ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed
+in.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>And if it had been burned, it had been no matter but that is
+not all, not lon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> afterwards you brought in ſome alte<g ref="char:EOLhyphen"/>rations into the
+<hi>Engliſh</hi> Church, the rayling in of the Alter, the bowing to it, or to
+the Cuſhion on it, with ſome other Novel<g ref="char:EOLhyphen"/>ties, were the powerful arguments
+wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch did ſet the peoples tongues againſt you, and their tongues and hearts
+againſt me, beleeving that <hi>I</hi> did not onely privately allow of it but
+under hand did prompt, and incourage you unto it.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>I did no more then what was practiſed in the times of
+the fathers of the Church as I am able to juſtify by their own writings, both
+in Gréek, and Latine, before ever that the Name of Pope was heard of a
+Name which I never ſtood affected to.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>But to the Name of <hi>Patr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arch</hi> you have; The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imes
+(indeed) we lived in, were ſo toaſty and touchy, that they would not indure
+to hear of any thing which ſavoured of the leaſt in<g ref="char:EOLhyphen"/>troduction of Novelty,
+but he alterations in the <hi>Engliſh</hi> Church did not ſo much afflict
+me, as the innovations which you would have brought into the Church of
+<hi>Scotland</hi> who being a people intracttable in their Judgements, had
+their recourſe preſently unto armes and how diſmall the event hath been,
+there are none can give a greater teſtimony of it then <hi>Stafford,</hi> and
+you, and I.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>Without all Contradiction the</hi> Engliſh <hi>Church as
+i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <pb n="6" facs="tcp:175891:5"/>
+                     <!-- PDF PAGE 115 -->
+was governed by</hi> Biſhops <hi>was the pureſt Church
+in</hi> Europe, <hi>many ſeparatiſts from beyond the Seas comming over to
+carps at their Pompe, and greatneſs departed from them admiring at their
+order; The Keyes were then kept in ſafe hands, which were no ſooner taken
+from them but Sacriledge, and prophan<g ref="char:EOLhyphen"/>neſs unlocked the doors, and an Army
+of</hi> H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſies <hi>invaded the Temples, and the Chancells of God; I had
+well ſhoped that</hi> England <hi>and</hi> Scotland <hi>being ſo happy,
+under one Governour, would agrée under one Church Government and that
+the more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>obſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure would have yeileed to the purer, and the more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ough to the
+more beautifull.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Too late I find, that it is a ſafer po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icy to l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a little
+imperfection or diſparity alone in a Church or State, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to go about to
+alter it, eſpecially when ambition, rapine and mur<g ref="char:EOLhyphen"/>der may be layd upon the
+account of Relligion, then let the people look unto their libertyes, and the
+King unto his Crown and Soveraighnty, or to his life more deer unto him then
+both; but ſee who comes here.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>I know him not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>But I doe, it is <hi>Bradſhaw,</hi> who at his high Court of
+Juſtice, condemned me to loſe my head.</p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>How the ſhaddows flock about him as if the ſight of
+ſuch a Ghoſt was ſtrange in this place. It looks as if it would be
+ſpoken to</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Friend! were not you my Judge.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>
+                  <hi>I will n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ver <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>drny under ground what I have done above it;
+King</hi> Charles, <hi>I was.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>And you would not give me leave to ſpeak for my ſelf, but
+now I hope I may be heard both for my ſelf, and my friends too.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>
+                  <hi>Your Majeſty may ſpeak your pleaſure, I ſhall
+anſwer as far as the letter of the law ſhall direct me,</hi> Currat Lex
+<hi>is the Proverb that I looked after.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>You ſhould then have looked to the beginning of the
+Proverb</hi> Serjeent.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>
+                  <hi>Whats that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>V. vat Rex; <hi>Let the King live, and let the Law take its
+courſe; Then you had done well, and neither the King nor 
+<pb n="7" facs="tcp:175891:5"/>
+                     <!-- PDF PAGE 115 -->
+you might peradventure have ſo ſoon diſcended into
+theſe ſub<g ref="char:EOLhyphen"/>terranean Countryes. But what Law made you a Iudge to judge your
+King.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Anſwer to that Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>I <hi>was indeed drawn unto it with much Relactancy of
+Spi<g ref="char:EOLhyphen"/>rit, but having once ſatiſfie a my ſelf</hi> I <hi>was reſolved to
+go through with it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Arch.</speaker>
+               <p>
+                  <hi>Did not the ſale of the Biſhops lands preſent you
+with a hierarchy of Angells to ſatiſfy you, and confirme you in your pious
+Religion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>
+                  <hi>Knew of no other Angell but the good Angel within me, my
+Conſcience which by ſuch an Act did promiſe much Peace unto me</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>
+                  <hi>Peace,</hi> O horrible, had <hi>Zimri</hi> peace who
+ſlew his Ma<g ref="char:EOLhyphen"/>ſter? it was your ambition that did tempt you to it, the
+Lord<g ref="char:EOLhyphen"/>ly title of a Preſident and the eſtate of the Lord <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttington</hi>
+to be conferred upon you to maintain that title beſides many other Donations
+and improvements.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>
+                  <hi>It was the high Court of juſtice and not I that
+ſentenced your Majeſty I am glad to ſee your Majeſty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>You uſe the very ſame Diſtinction on your ſelf as you
+di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on me when you ſentenced me to death, you diſtinguiſhed between the
+Office of a King, and the Errors of a King, and now to excuſe your ſelf for
+what you have done, you diſtinguiſh be<g ref="char:EOLhyphen"/>tween <hi>John Bradſhaw</hi>
+Serjeant at Law, and <hi>John Bradſhaw</hi> Pre<g ref="char:EOLhyphen"/>ſident of the High-Court of
+Juſtice</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>
+                  <hi>Yes, Preſiden of the High Court of juſtice.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>J will tell you one thing, ſhew me but ſuch another Court
+in all the Subterranean Kingdomes as your High Court of Juſtice, even in the
+moſt Diſmal and the moſt hideous plates of them, and J am not ſo much
+your Enemy but J wil doe the beſt J can to make you Preſident of it,
+becauſe you are ſo glad (you ſay) to ſee me.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>
+                  <hi>After you were dead you were cailed the</hi> White King
+<hi>all</hi> England <hi>over, hus now</hi> J <hi>ſee you are white
+indeed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>You would have me to thank you would you not for making me
+ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſh.</speaker>
+               <p>
+                  <hi>There are a great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of tho Nobility and Gentry of 
+<pb n="8" facs="tcp:175891:6"/>
+                     <!-- PDF PAGE 116 -->
+the Land that ſtil do honour both you and yours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Could they ſend none but you unto you to acquaint me with
+it.</p>
+            </sp>
+            <sp>
+               <speaker>Brad.</speaker>
+               <p>
+                  <hi>And if your Majeſty pleaſe J will declare their
+ſeverall Names unto you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>O by no means, the craft and courteſie of Hell, this is a
+new P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot indeed, for you even after death to cajo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e me, and to trappan my
+friends, who being thus diſcovered and laid open by you will be expoſed to
+the mallice and the Avarice of all their armed Advarſari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y may thus be
+charged and charged again.</p>
+            </sp>
+            <sp>
+               <speaker>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rad</speaker>
+               <p>
+                  <hi>Charged.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>
+                  <hi>I</hi> ſir charged, do you remember the unjuſt charge
+that you procu<g ref="char:EOLhyphen"/>red to be read againſt me, for beginning a war traiterouſly
+and malliciou<g ref="char:EOLhyphen"/>ſly againſt the Parliament, and for the ſame you adjudged
+me as a Tyrant traytor, and a murderer to be put to death by ſevering my head
+from my body, when let any man (as <hi>I</hi> pleaded) look upon the Dates of
+the Com<g ref="char:EOLhyphen"/>miſſions, the Commiſſions which the Parliament gave, and the
+Commiſi<g ref="char:EOLhyphen"/>ons which I g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo upon the Declarations which they
+publiſhed, and which I publiſhed and they w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll cleerly ſee that it was
+they who began theſe troubles, and not I my ſelf. Is a King to be
+queſtiond who when his Subjects are in the field and determing his death doth
+put on arms to pre<g ref="char:EOLhyphen"/>ſerve his now life If that a crime in a King which is a
+Virtue in a Subject. Is that unpardonable in me, which by the Lawes of God and
+man is commendable in all the world? Truſt me ſir, allthough I am dead, yet
+the law will l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve. It was no falſe expreſſion which your Protector ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e
+when after ſome words of ſlovenly ind<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnation he told his Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſailers
+that he had more to do to conquer two or thee muſty lawes then three Nations
+I ſha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l repeat my dying words, <hi>I</hi> am as much or m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re for the liberty
+of my people then any who ſoe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er that have preten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed for them I am ſor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y at
+t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eart to hear of their d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtruction, and burdens, and I b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeech God to
+eaſe, and reconcile them, <hi>J</hi> beſeech God to ſened his Spir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,
+amongſt them w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich is the Spirit of Trut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity, <hi>J</hi> beſech God
+to vouchſafe them ſuch a peace that b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing all of one mind, and one
+affection they becom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch the envy of other Nati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns as they are now their
+ſcorn; Theſe laſt words he exp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſed with ſo much candour, and
+piety, and with ſuch a ferventy of a d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vout deſire that the Spirits of
+juſt and righteous men, who did round in compaſſe him, and who in Death
+do enjoy that peace which on earth they did purſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did ſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to al them to
+pertake w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th him in the ſame integrity of affections and the Elyſian fields
+d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ring with the Acclamations which they made.</p>
+            </sp>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
